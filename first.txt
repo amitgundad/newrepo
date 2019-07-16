@@ -1,1 +1,2 @@
-First
+This is the new line added 
+This is the sample file created for git demo
